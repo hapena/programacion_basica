@@ -1,0 +1,7 @@
+print(5 == 5)
+print(5 != 5)
+print(8 > 3)
+print(8 < 3)
+print(7 >= 9)
+print(3 <= 3)
+print(3 < 3)
